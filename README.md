@@ -6,8 +6,8 @@ This repository hosts the **official releases** of Nova Terminal. It is read-onl
 
 ## Download
 
-Grab the latest build from the [Releases](https://github.com/victoragudo/nova-releases/releases) page, unzip, and drop `Nova.app` into `/Applications`.
+Grab the latest build from the [Releases](https://github.com/victoragudo/nova-terminal/releases) page, unzip, and drop `Nova.app` into `/Applications`.
 
 ## Feedback
 
-Bug reports and feature requests are welcome in [Issues](https://github.com/victoragudo/nova-releases/issues).
+Bug reports and feature requests are welcome in [Issues](https://github.com/victoragudo/nova-terminal/issues).
