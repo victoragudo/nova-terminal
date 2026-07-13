@@ -63,6 +63,7 @@ Most terminals look the same. Nova puts your shell inside a living cosmic scene,
 | `Cmd+F` | Search in the terminal or in the preview |
 | `Cmd+click` | Open a link printed in the terminal, hover shows a hint |
 | `Shift+Enter` | Newline in TUIs like Claude Code and opencode |
+| `Cmd+A`, right click | Select all and copy inside the preview |
 | `Cmd+←` / `Cmd+→` | Line start and end |
 | `Option+←` / `Option+→` | Jump by word |
 | `Cmd+Backspace` / `Option+Backspace` | Delete line, delete word |
