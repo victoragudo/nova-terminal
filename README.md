@@ -61,7 +61,8 @@ Most terminals look the same. Nova puts your shell inside a living cosmic scene,
 | `Ctrl+Tab` / `Ctrl+Shift+Tab` | Next and previous tab |
 | `Cmd+Shift+L` | Cycle themes |
 | `Cmd+F` | Search in the terminal or in the preview |
-| `Cmd+click` | Open a link printed in the terminal |
+| `Cmd+click` | Open a link printed in the terminal, hover shows a hint |
+| `Shift+Enter` | Newline in TUIs like Claude Code and opencode |
 | `Cmd+←` / `Cmd+→` | Line start and end |
 | `Option+←` / `Option+→` | Jump by word |
 | `Cmd+Backspace` / `Option+Backspace` | Delete line, delete word |
@@ -120,14 +121,14 @@ Every release is built by CI from a clean checkout:
 
 1. Download the latest `.dmg` from [Releases](https://github.com/victoragudo/nova-terminal/releases/latest).
 2. Open it and drag **Nova** into **Applications**.
-3. If macOS warns you on first launch, right click the app and choose **Open**.
 
+Every build is signed and notarized by Apple, so macOS opens it with no warnings.
 Requires an Apple Silicon Mac. After the first install, Nova updates itself.
 
 ## Roadmap
 
 **Now**
-- [ ] Notarized builds, so the first launch needs no right click
+- [x] Notarized builds, the first launch needs no right click
 - [x] Live terminal reflow when the panel or font size changes
 
 **Next**
