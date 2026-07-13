@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Nova Terminal</title>
+    <link>https://github.com/victoragudo/nova-terminal</link>
+    <description>Official Nova Terminal updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.3.0</title>
+      <sparkle:version>0.3.0</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 13 Jul 2026 09:15:22 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@781cdd1`.
+
+### Added
+- Add Sparkle auto-updates fed by the GitHub releases appcast (`781cdd1`)
+</pre>]]></description>
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.3.0/Nova-v0.3.0.dmg" sparkle:edSignature="V3zayxqMn6kWEAZWjiDjr7vFMiUrJLh8vVGkUPWvVdhEwfLNDDotUEDNFL0088CnyQ753/RWwOG3cIKtbKoCCw==" length="10383028" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
