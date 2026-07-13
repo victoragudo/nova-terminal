@@ -6,17 +6,18 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 0.5.0</title>
-      <sparkle:version>0.5.0</sparkle:version>
-      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <title>Version 0.5.1</title>
+      <sparkle:version>0.5.1</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Mon, 13 Jul 2026 10:39:20 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@e84c055`.
+      <pubDate>Mon, 13 Jul 2026 10:51:01 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@973fc39`.
 
-### Added
-- Add a cmd hover hint and underline for terminal links (`e84c055`)
+### Changed
+- Send Option-composed characters to the shell instead of Meta sequences (`973fc39`)
+- Show the link hint on plain hover without holding Cmd (`f51e686`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.5.0/Nova-v0.5.0.dmg" sparkle:edSignature="UifrZ/8yXTjlitLMRlbN/ottpQ8BoO6J/QYuqu1Zf1CSI5EyYDyoVBks7IedSjlwUVq5BvjmwmWVLzqx8EfsCg==" length="10391243" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.5.1/Nova-v0.5.1.dmg" sparkle:edSignature="CJdx2u3+sm5/0Q1T203EFvwNfaVxqAYpBRs3jDwm+0BKm5xZcvDwXcE6yZMtIPJocyz8O2syU1ZBlXAz5+hvBw==" length="10392570" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
