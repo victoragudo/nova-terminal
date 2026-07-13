@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.1</title>
-      <sparkle:version>0.3.1</sparkle:version>
-      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <title>Version 0.3.2</title>
+      <sparkle:version>0.3.2</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Mon, 13 Jul 2026 09:18:29 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@9fdb044`.
+      <pubDate>Mon, 13 Jul 2026 09:22:54 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@28a1b71`.
 
 ### Changed
-- Brighten dmg label zones so Finder text stays readable (`9fdb044`)
+- Log updater lifecycle to stderr for support (`28a1b71`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.3.1/Nova-v0.3.1.dmg" sparkle:edSignature="zRAENKS+dDZ/TUdrXiOrvySb3Tj9rgk5XzSoIHyy+7sU3a+MuZDGnAhi+8Jbe3L2AeH9DVMtHL4GrjevFt+yAQ==" length="10370745" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.3.2/Nova-v0.3.2.dmg" sparkle:edSignature="RH0ebjvLjHI4rG7Lqx5g33X3fLjreAmyB/bxuu6y8mcZaZOlQTAJ1OhML7oDaWYPi/43B4b7M/gglGf30dNfCw==" length="10374446" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
