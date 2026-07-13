@@ -33,7 +33,8 @@ Most terminals look the same. Nova puts your shell inside a living cosmic scene,
 - **Git panel**: changed files at a glance, commit, push and pull. Click a file to see a GitHub style diff. Resizable and persistent.
 - **Pinned tabs**: star a tab and it stays in the dock as a favorite, even after you close the app. One click reopens it in its folder.
 - **Auto updates**: Nova checks GitHub releases through Sparkle and updates itself. Updates are signed with EdDSA on top of the Developer ID signature.
-- **Real terminal**: login shell, 10k lines of scrollback, mouse reporting for TUIs with `Shift` to bypass, text selection by character, word or line, drag files in to paste their paths, and bracketed paste.
+- **Real terminal**: login shell, 10k lines of scrollback, live reflow when the panel or the font size changes, mouse reporting for TUIs with `Shift` to bypass, text selection by character, word or line, drag files in to paste their paths, and bracketed paste.
+- **One click actions**: Open, Reveal in Finder, copy path, and the real macOS Quick Look panel, straight from the preview.
 - **Session restore**: tabs, sizes, theme and layout come back exactly as you left them.
 
 ## Themes
@@ -127,7 +128,7 @@ Requires an Apple Silicon Mac. After the first install, Nova updates itself.
 
 **Now**
 - [ ] Notarized builds, so the first launch needs no right click
-- [ ] Live terminal reflow when the panel resizes
+- [x] Live terminal reflow when the panel or font size changes
 
 **Next**
 - [ ] Split panes
@@ -142,4 +143,4 @@ Requires an Apple Silicon Mac. After the first install, Nova updates itself.
 
 ## Feedback
 
-This repository hosts the official releases. Bug reports and ideas are welcome in [Issues](https://github.com/victoragudo/nova-terminal/issues).
+This repository hosts the official releases. Bug reports and ideas are welcome in [Issues](https://github.com/victoragudo/nova-terminal/issues), or straight from the app: **Nova menu, Send Feedback**.
