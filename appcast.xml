@@ -6,21 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 0.4.1</title>
-      <sparkle:version>0.4.1</sparkle:version>
-      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <title>Version 0.4.2</title>
+      <sparkle:version>0.4.2</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Mon, 13 Jul 2026 10:24:11 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@9923e8a`.
+      <pubDate>Mon, 13 Jul 2026 10:32:45 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@c7cb954`.
 
 ### Fixed
-- Fix terminal glyphs double-scaling past the reflowed grid (`292567e`)
-
-### Changed
-- Replace qlmanage with the native Quick Look panel (`9923e8a`)
-- Allow manual release runs from the Actions tab (`a0731c5`)
+- Fix link clicks below the legacy fixed grid bounds (`c7cb954`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.4.1/Nova-v0.4.1.dmg" sparkle:edSignature="gV526LOaF8slL6pnVUxp+ZqjKBCa6Eeve5wjmKehBcMrsJ2ZRM8ai8gecvkDGlSwWQKyvp7KDa1ds0wArfC4Bg==" length="10389117" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.4.2/Nova-v0.4.2.dmg" sparkle:edSignature="M5YnbJoX2DJv1UwiEZd5qkHS9FhM9l236RwM0ZST9ky/hPnqBCYmcg3sVkEQAMa38R6vHRGNFbwwhPzje2FIDQ==" length="10389172" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
