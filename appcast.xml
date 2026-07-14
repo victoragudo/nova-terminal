@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 0.11.0</title>
-      <sparkle:version>0.11.0</sparkle:version>
-      <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+      <title>Version 0.12.0</title>
+      <sparkle:version>0.12.0</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Tue, 14 Jul 2026 07:33:52 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@ce06451`.
+      <pubDate>Tue, 14 Jul 2026 14:00:12 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@387d91b`.
 
 ### Added
-- Add a git branch switcher and align file tree icon columns (`ce06451`)
+- Add Cmd+click file opening and keyboard text selection (`387d91b`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.11.0/Nova-v0.11.0.dmg" sparkle:edSignature="u4Jf5lqIQK1aamok8EqBu841l7dTvGxzkPt4SKiWvdsyvVw0WCe0F3/WaQ4v/ngST0frLZjGJ1dWKTYAVrJVCg==" length="10416177" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.12.0/Nova-v0.12.0.dmg" sparkle:edSignature="VUk9SeuhlnJzZbPOMBgGEqo7+MKNaWoSCgX83xXgGJ8ck0WSqmCnlVNqgYcjdvISlYSyWjTv89YIG4akRew4Ag==" length="10417772" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
