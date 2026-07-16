@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 0.15.0</title>
-      <sparkle:version>0.15.0</sparkle:version>
-      <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+      <title>Version 0.16.0</title>
+      <sparkle:version>0.16.0</sparkle:version>
+      <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 15 Jul 2026 13:44:34 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@bee3b1a`.
+      <pubDate>Thu, 16 Jul 2026 07:33:07 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@20ccf74`.
 
 ### Added
-- Add a done indicator to tabs when a stream finishes (`bee3b1a`)
+- Add one-click close on inactive tabs (`20ccf74`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.15.0/Nova-v0.15.0.dmg" sparkle:edSignature="ox4qFWCUIXrRX/ODx5/JNs0N9FmqvU6BGCbgVzQU3OBCzSWd5AOOXEyIPklwfldLIctk2BuxZShufrK02XwwBA==" length="10428584" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.16.0/Nova-v0.16.0.dmg" sparkle:edSignature="NBpITLAlHUAB8FuojHRz0iRkAciIiNMdreonvJFrpc4SFyvlG71XGEa4fnfjV+9xQehOy0Mp1yY1giyCo5a1CQ==" length="10429966" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
