@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 0.16.2</title>
-      <sparkle:version>0.16.2</sparkle:version>
-      <sparkle:shortVersionString>0.16.2</sparkle:shortVersionString>
+      <title>Version 0.17.0</title>
+      <sparkle:version>0.17.0</sparkle:version>
+      <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Fri, 17 Jul 2026 10:14:47 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@fe95d00`.
+      <pubDate>Fri, 17 Jul 2026 14:06:41 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@f5e18a4`.
 
-### Fixed
-- Fix upside-down PDF rendering in the preview (`fe95d00`)
+### Added
+- Add hover tooltip showing a tab's full title (`f5e18a4`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.16.2/Nova-v0.16.2.dmg" sparkle:edSignature="Xm/+NdmCC7uRtYDHtPMeRNIvX/uj+nJhFWlzmqtivcWhONF+JAJSMMV6dN6JOX/tVB4Ruo9R2G1EkNIb3/9nAw==" length="10432904" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.17.0/Nova-v0.17.0.dmg" sparkle:edSignature="psMiHbVA5T3MRWeilqBX1lMGeUGZIwBQzMjAxNjPvrb8GB+QW1KQ7xgAfy18MsXr0HSo5PYpQO9bkKlnUisRAQ==" length="10436842" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
