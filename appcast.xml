@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 0.19.1</title>
-      <sparkle:version>0.19.1</sparkle:version>
-      <sparkle:shortVersionString>0.19.1</sparkle:shortVersionString>
+      <title>Version 0.20.0</title>
+      <sparkle:version>0.20.0</sparkle:version>
+      <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sat, 18 Jul 2026 19:01:03 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@18c550d`.
+      <pubDate>Sat, 18 Jul 2026 22:56:13 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@de90400`.
 
-### Fixed
-- Fix Caps Lock terminal input (`18c550d`)
+### Added
+- Add Cloudflare tunnel for iPhone remote (`de90400`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.19.1/Nova-v0.19.1.dmg" sparkle:edSignature="6b9FobVT+4vPTqlNGC85uuoz2sdMBUGRXbY4oQfMz2BSi5xfkevAtEo1bIk/ZbCzlq09RVqb8isszPDA+CU2Dw==" length="10470119" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.20.0/Nova-v0.20.0.dmg" sparkle:edSignature="bmGC/A+UoBqN2WXBYhahuyowwYYWw7Abf9OwUysR82sIFFBP0A20YP70sYWh5EhfKL35gKwPC4EV74Vxi9DaDw==" length="10476220" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
