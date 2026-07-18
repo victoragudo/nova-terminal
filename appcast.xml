@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 0.18.0</title>
-      <sparkle:version>0.18.0</sparkle:version>
-      <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+      <title>Version 0.19.0</title>
+      <sparkle:version>0.19.0</sparkle:version>
+      <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sat, 18 Jul 2026 07:11:53 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@2801136`.
+      <pubDate>Sat, 18 Jul 2026 18:41:23 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@40baf48`.
 
 ### Added
-- Add drag-and-drop tab reordering (`2801136`)
+- Add integrated iPhone remote control (`40baf48`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.18.0/Nova-v0.18.0.dmg" sparkle:edSignature="POaJdjhn1xSxm4N/NZdVstctz57c1wW+0RXcCoClNpjc2C1hDiv7YG0E2V5dslTi4c6L6+F9pa4stR8v4CV4DQ==" length="10438200" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.19.0/Nova-v0.19.0.dmg" sparkle:edSignature="DIlbbWg5ITq/pvH69IgILLmC/H/V5r+rZlEq3yoxZF5NQOkextWje3U+45eqA2MhKQNCjJZ5gW2AnjPJxIMeDA==" length="10470100" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
