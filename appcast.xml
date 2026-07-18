@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 0.17.0</title>
-      <sparkle:version>0.17.0</sparkle:version>
-      <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
+      <title>Version 0.18.0</title>
+      <sparkle:version>0.18.0</sparkle:version>
+      <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Fri, 17 Jul 2026 14:06:41 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@f5e18a4`.
+      <pubDate>Sat, 18 Jul 2026 07:11:53 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@2801136`.
 
 ### Added
-- Add hover tooltip showing a tab's full title (`f5e18a4`)
+- Add drag-and-drop tab reordering (`2801136`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.17.0/Nova-v0.17.0.dmg" sparkle:edSignature="psMiHbVA5T3MRWeilqBX1lMGeUGZIwBQzMjAxNjPvrb8GB+QW1KQ7xgAfy18MsXr0HSo5PYpQO9bkKlnUisRAQ==" length="10436842" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.18.0/Nova-v0.18.0.dmg" sparkle:edSignature="POaJdjhn1xSxm4N/NZdVstctz57c1wW+0RXcCoClNpjc2C1hDiv7YG0E2V5dslTi4c6L6+F9pa4stR8v4CV4DQ==" length="10438200" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
