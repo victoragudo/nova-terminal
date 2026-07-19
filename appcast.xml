@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.0</title>
-      <sparkle:version>1.0.0</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>Version 1.0.1</title>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sun, 19 Jul 2026 09:53:04 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@304ab34`.
+      <pubDate>Sun, 19 Jul 2026 10:05:34 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@793aa10`.
 
 ### Changed
-- Keep Cloudflare remote available while warming up (`304ab34`)
+- Improve remote controls and keepalive (`793aa10`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.0.0/Nova-v1.0.0.dmg" sparkle:edSignature="KkHliukd/Lv1am293POe0PMaSpuV++aIOIwDa5vaMdW22sJKRspOyeXJmsv5uIbRtoMmssDjZPkGOthAHRGpCQ==" length="10478757" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.0.1/Nova-v1.0.1.dmg" sparkle:edSignature="ZAYcWHksQH42nE8FF16bnYDLI/fAFAknWjBj1ECnj4pAwaRSzthRZYoeeDzTbq/fZhTWFMJiNywycFCobP6WCw==" length="10481323" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
