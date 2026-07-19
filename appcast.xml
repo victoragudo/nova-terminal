@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 0.20.1</title>
-      <sparkle:version>0.20.1</sparkle:version>
-      <sparkle:shortVersionString>0.20.1</sparkle:shortVersionString>
+      <title>Version 0.20.2</title>
+      <sparkle:version>0.20.2</sparkle:version>
+      <sparkle:shortVersionString>0.20.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sun, 19 Jul 2026 08:49:53 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@33cccbe`.
+      <pubDate>Sun, 19 Jul 2026 09:02:34 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@f97ea26`.
 
 ### Changed
-- Control Nova windows from iPhone remote (`33cccbe`)
+- Check Docker before starting iPhone remote (`f97ea26`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.20.1/Nova-v0.20.1.dmg" sparkle:edSignature="lez7pAao/eMlcFxKN8v1dEIS+RzV1p2nfniLx+jXKs3uhQf87OBqCjjaS1wXbNqtKFxXvQ/xmjugHL/IIgOJBA==" length="10477074" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v0.20.2/Nova-v0.20.2.dmg" sparkle:edSignature="dmuXHzw1s1T6IykVZ1TyASgwtBnme6sIZzKLx80jSYAgbuxYLcq/bfgV5eOgP2kFkSG1syi6snUhD+IlDxnYCQ==" length="10478525" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
