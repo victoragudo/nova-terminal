@@ -11,7 +11,7 @@
       <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sun, 16 Aug 2026 15:22:42 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from `victoragudo/NovaTerminal@f56bf9f`.
+      <description><![CDATA[<pre>Automated build from source commit `f56bf9f`.
 
 ### Changed
 - Expand remote mobile terminal view (`f56bf9f`)
