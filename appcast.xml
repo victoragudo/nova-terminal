@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.3.0</title>
-      <sparkle:version>1.3.0</sparkle:version>
-      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <title>Version 1.3.1</title>
+      <sparkle:version>1.3.1</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Mon, 17 Aug 2026 08:51:33 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `ac5d3d8`.
+      <pubDate>Mon, 17 Aug 2026 14:38:36 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `c013c09`.
 
-### Added
-- Add remote new-tab action (`ac5d3d8`)
+### Changed
+- Use stable Sparkle feed asset (`c013c09`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.3.0/Nova-v1.3.0.dmg" sparkle:edSignature="o/XU8tcSRrhEbpZF7hs0HiDOPzr5L8SfKXbj6ycfm/2IbcacaAGTQ+f1hu6Gl4B6rahxx8MMUfsPHZMv3Q3qCA==" length="10486555" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.3.1/Nova-v1.3.1.dmg" sparkle:edSignature="rXI5XjjI3YAMfbE1MoRagv4YXwfbIhv3c6B4eAcvMvWckpuJjY2bLcfAavuKFLNdmVBIzUIgta03EjGJvEvaBw==" length="10487291" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
