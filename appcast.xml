@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.6.4</title>
-      <sparkle:version>1.6.4</sparkle:version>
-      <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
+      <title>Version 1.6.5</title>
+      <sparkle:version>1.6.5</sparkle:version>
+      <sparkle:shortVersionString>1.6.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sat, 29 Aug 2026 20:38:40 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `dd0fcf0`.
+      <pubDate>Mon, 31 Aug 2026 08:49:44 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `835d82e`.
 
 ### Fixed
-- Fix file tree rows shifting when a git badge is present (`dd0fcf0`)
+- Fix the remote failing to start while it is already starting (`835d82e`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.6.4/Nova-v1.6.4.dmg" sparkle:edSignature="7HHTv8UM82OGMHuZm8nDptTpkrmr6lMhR+ARYRgKAvudz1VR4drdnd7G0H4mzvqawOl3BXZ+Im9d5GjHqz4WAA==" length="10522387" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.6.5/Nova-v1.6.5.dmg" sparkle:edSignature="JTpoQs+PH92OEWBbBNUAogTDd28ajERBncj8X0ZsVLBjII/5k81NEtBMLWi5/npwNsTGoHNcXq+shSrAcXV9BQ==" length="10523568" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
