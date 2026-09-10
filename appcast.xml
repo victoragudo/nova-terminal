@@ -6,21 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.7.0</title>
-      <sparkle:version>1.7.0</sparkle:version>
-      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <title>Version 1.7.1</title>
+      <sparkle:version>1.7.1</sparkle:version>
+      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 09 Sep 2026 10:03:10 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `3787077`.
-
-### Added
-- Add a quick send button to the remote controls (`3787077`)
+      <pubDate>Thu, 10 Sep 2026 15:52:19 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `8a76703`.
 
 ### Fixed
-- Fix the remote hanging on Docker and hiding a dead tunnel (`7a97e05`)
-- Fix terminal output landing under the floating tab dock (`0fb5faf`)
+- Fix text clipping at the right edge of the terminal (`8a76703`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.7.0/Nova-v1.7.0.dmg" sparkle:edSignature="LU768D6dbL6QA+WAbVl0utJ8WNzMZoyYB78lx/v58SBhCCXXXadjPQBZ081xJtxjucdx+P5Mlo7MV7/Ov3xHDw==" length="10525086" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.7.1/Nova-v1.7.1.dmg" sparkle:edSignature="1YINbMemFnqT9aKu1AyFGamTXz2biYqWh/FaaTh0fKse60OoYGC+AKXOCHaoE2VgkIJkXmpbUVjqotylsbYHDg==" length="10526120" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
