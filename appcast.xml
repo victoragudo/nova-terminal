@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.7.1</title>
-      <sparkle:version>1.7.1</sparkle:version>
-      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+      <title>Version 1.8.0</title>
+      <sparkle:version>1.8.0</sparkle:version>
+      <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Thu, 10 Sep 2026 15:52:19 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `8a76703`.
+      <pubDate>Sat, 12 Sep 2026 17:22:43 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `1f7f728`.
 
-### Fixed
-- Fix text clipping at the right edge of the terminal (`8a76703`)
+### Added
+- Add a remote restart and rebuild the remote lifecycle around one state machine (`1f7f728`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.7.1/Nova-v1.7.1.dmg" sparkle:edSignature="1YINbMemFnqT9aKu1AyFGamTXz2biYqWh/FaaTh0fKse60OoYGC+AKXOCHaoE2VgkIJkXmpbUVjqotylsbYHDg==" length="10526120" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.8.0/Nova-v1.8.0.dmg" sparkle:edSignature="R4ydg29s4rp1y17nRfcXdj5WrFzh5tOTrvRTGHqLzcZIUz6YqPcsbBpE23xfBn6lyHyahMV7F+Iw7/sa6N9PDQ==" length="10538299" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
