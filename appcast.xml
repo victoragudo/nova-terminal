@@ -6,20 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.10.1</title>
-      <sparkle:version>1.10.1</sparkle:version>
-      <sparkle:shortVersionString>1.10.1</sparkle:shortVersionString>
+      <title>Version 1.10.2</title>
+      <sparkle:version>1.10.2</sparkle:version>
+      <sparkle:shortVersionString>1.10.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sat, 26 Sep 2026 19:59:36 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `49e6fa2`.
+      <pubDate>Sat, 26 Sep 2026 20:44:54 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `e9895bb`.
 
 ### Changed
-- Dock the tab bar under the terminal and show full tab names (`49e6fa2`)
-- Redesign the phone remote as a mobile-first, fixed-scale console (`196f3a0`)
-- Detect wrapped links in TUIs and pick a Chrome profile to open them (`17c94c6`)
-
+- Run releases on a self-hosted Mac runner [skip ci] (`e9895bb`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.10.1/Nova-v1.10.1.dmg" sparkle:edSignature="WwVOnmOWIPz6Ce0A/WTK1EBZ/GTnqsVzA1hlEvgKCeLn3X/iQvlZptZ1PeXUvltvCDtZzoHTDFUCQaDqgrV1AQ==" length="10536760" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.10.2/Nova-v1.10.2.dmg" sparkle:edSignature="55EP3ycCHcy3dBaCS/hzkqox4q2sLoQoWFd6xsoFA9br7plDDCLJG+znobKF38xKSnnQ1PpAn5uBGOfSqNrOBw==" length="10532645" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
