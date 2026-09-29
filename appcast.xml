@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.12.0</title>
-      <sparkle:version>1.12.0</sparkle:version>
-      <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+      <title>Version 1.12.1</title>
+      <sparkle:version>1.12.1</sparkle:version>
+      <sparkle:shortVersionString>1.12.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Tue, 29 Sep 2026 14:12:45 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `c81fe82`.
+      <pubDate>Tue, 29 Sep 2026 14:20:55 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `9f9cd3b`.
 
-### Added
-- Add the NovaOne theme (`c81fe82`)
+### Changed
+- Name the remote session device-agnostic (`9f9cd3b`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.12.0/Nova-v1.12.0.dmg" sparkle:edSignature="XIZF4ejBJZPK8ccowOnKE5kH+/dk4kgC72kf47XqDCo6kltUNf9RHN3b4IHjHft+cv+iRYMirvXlNQZL39BHCQ==" length="10542736" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.12.1/Nova-v1.12.1.dmg" sparkle:edSignature="e+ggQxfz5LGlOHCFKQPy43hbRAWXP6w8ty05YF9TIuU26cuBjMnpg2SS1LjAyLtsmNPHzmAwAV5SPApXPxbrCQ==" length="10542738" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
