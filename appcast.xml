@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.12.1</title>
-      <sparkle:version>1.12.1</sparkle:version>
-      <sparkle:shortVersionString>1.12.1</sparkle:shortVersionString>
+      <title>Version 1.13.0</title>
+      <sparkle:version>1.13.0</sparkle:version>
+      <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Tue, 29 Sep 2026 14:20:55 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `9f9cd3b`.
+      <pubDate>Tue, 29 Sep 2026 14:37:19 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `5ce7869`.
 
-### Changed
-- Name the remote session device-agnostic (`9f9cd3b`)
+### Added
+- Add an Agents view for Claude Code and OpenCode sessions (`5ce7869`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.12.1/Nova-v1.12.1.dmg" sparkle:edSignature="e+ggQxfz5LGlOHCFKQPy43hbRAWXP6w8ty05YF9TIuU26cuBjMnpg2SS1LjAyLtsmNPHzmAwAV5SPApXPxbrCQ==" length="10542738" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.13.0/Nova-v1.13.0.dmg" sparkle:edSignature="Fq8HSV9skemxB2Ic1zip0uMh80D6FyNyYUhyXYuQJp5PtnOwL2R9DZ754LhuR6XrMpA3SV0JsefmsRg8fR+9BA==" length="10604059" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
