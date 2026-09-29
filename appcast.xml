@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.11.0</title>
-      <sparkle:version>1.11.0</sparkle:version>
-      <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+      <title>Version 1.11.1</title>
+      <sparkle:version>1.11.1</sparkle:version>
+      <sparkle:shortVersionString>1.11.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Mon, 28 Sep 2026 07:47:12 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `99abaa3`.
+      <pubDate>Tue, 29 Sep 2026 13:43:25 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `fe462a9`.
 
-### Added
-- Add Close Other Tabs with confirmation (`99abaa3`)
+### Changed
+- Allow reordering favorite tabs by drag and drop (`fe462a9`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.11.0/Nova-v1.11.0.dmg" sparkle:edSignature="aWkD4jKEV6lzcrpueERymEH6O8Ytn+EsaACwiYGS7lL14ZhocpwCxXu/P5Mn2G1vA26BucYiDi6prhwyruvdBw==" length="10540054" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.11.1/Nova-v1.11.1.dmg" sparkle:edSignature="zfv+f4xJMgkkbgZxgvQDB5xO8xmhIg+whacuLu0NSaVlBECCut9vNawvgUleT5EgigDsPFCVE4Ue+ND0GVUACA==" length="10542576" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
