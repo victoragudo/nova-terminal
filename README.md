@@ -35,14 +35,28 @@ You need an Apple Silicon Mac with macOS 13 or newer. Every build is signed and 
 - A small Git panel with added and deleted line counts, commit, pull and push.
 
 **Agents**
-- An Agents view that lists every Claude Code and OpenCode session on your Mac, subagents included.
-- It groups them into "needs you", "working" and "idle". From there you can jump to the agent's tab, approve or interrupt it.
+
+If you run AI coding agents, you probably have a few of them going at once in different tabs. The Agents view (`Cmd+Shift+A`) shows all of them in one place.
+
+- It finds every Claude Code and OpenCode session running on your Mac, including subagents and Claude Code profiles. You don't need to set anything up.
+- Sessions are grouped into **Needs you**, **Working** and **Idle**, so you can see at a glance which agent is waiting for an answer.
+- Click a session to see what it's doing: the project, branch, how long it has been running, how much context it uses, and its last steps (edits, commands, reads, searches, messages).
+- If an agent is waiting on a permission prompt, Nova shows the question. You can **Approve** it or **Interrupt** the agent right there.
+- **Go to tab** jumps to the agent's terminal. If it runs outside Nova, you can open a new tab in its folder instead.
+
+<p align="center">
+  <img src=".github/assets/nova-agents.png" width="100%" alt="Nova Agents view with three Claude Code sessions">
+</p>
 
 **iPhone remote**
 - Open your real Nova windows and tabs from your phone and type into them. There are keys for Enter, Ctrl-C, Esc, Tab and the arrows.
 - You can switch or close tabs, open new ones, upload files and scroll the whole history.
 - By default it goes through a temporary Cloudflare tunnel and keeps the Mac awake. If you prefer, it also works on your LAN or VPN (`NOVA_REMOTE_CLOUDFLARE=0`).
 - If the tunnel dies or the app crashes, a watchdog brings it back and can send you the new URL on Telegram.
+
+<p align="center">
+  <img src=".github/assets/nova-remote.png" width="300" alt="Nova Remote on an iPhone">
+</p>
 
 **Looks**
 - An animated nebula background with stars and the odd shooting star.
