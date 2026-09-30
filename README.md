@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/nova-banner.png" alt="Nova Terminal on a Mac with the iPhone remote" width="100%">
+  <img src=".github/assets/nova-banner.png" alt="Nova Terminal on a Mac with a remote session open on a phone" width="100%">
 </p>
 
 # Nova Terminal
@@ -48,14 +48,15 @@ If you run AI coding agents, you probably have a few of them going at once in di
   <img src=".github/assets/nova-agents.png" width="100%" alt="Nova Agents view with three Claude Code sessions">
 </p>
 
-**iPhone remote**
-- Open your real Nova windows and tabs from your phone and type into them. There are keys for Enter, Ctrl-C, Esc, Tab and the arrows.
+**Remote access**
+- Open your real Nova windows and tabs from any device with a browser: your phone, a tablet or another computer. You see the live terminal and can type into it.
+- The page fits the screen. On a phone you get big keys for Enter, Ctrl-C, Esc, Tab and the arrows. On a laptop or desktop it becomes a wide console.
 - You can switch or close tabs, open new ones, upload files and scroll the whole history.
 - By default it goes through a temporary Cloudflare tunnel and keeps the Mac awake. If you prefer, it also works on your LAN or VPN (`NOVA_REMOTE_CLOUDFLARE=0`).
 - If the tunnel dies or the app crashes, a watchdog brings it back and can send you the new URL on Telegram.
 
 <p align="center">
-  <img src=".github/assets/nova-remote.png" width="300" alt="Nova Remote on an iPhone">
+  <img src=".github/assets/nova-remote.png" width="300" alt="Nova Remote on a phone">
 </p>
 
 **Looks**
