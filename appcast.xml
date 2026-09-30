@@ -6,18 +6,22 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.13.2</title>
-      <sparkle:version>1.13.2</sparkle:version>
-      <sparkle:shortVersionString>1.13.2</sparkle:shortVersionString>
+      <title>Version 1.14.0</title>
+      <sparkle:version>1.14.0</sparkle:version>
+      <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Tue, 29 Sep 2026 21:16:11 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `ab1479e`.
+      <pubDate>Wed, 30 Sep 2026 11:43:38 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `e17d1e9`.
+
+### Added
+- Add remote, agents and themes visuals to the README (`ef48469`)
 
 ### Changed
-- Redesign the app icon (`ab1479e`)
-- Show Claude Code subagents in the Agents view (`1c50d5c`)
+- Redesign the Agents view around subagent swimlanes (`e17d1e9`)
+- Describe remote access as device-agnostic in the README (`9b9624d`)
+- Rewrite the README with a banner and a full feature overview (`4c804b4`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.13.2/Nova-v1.13.2.dmg" sparkle:edSignature="I3uY/qAKLisj8NBOzJxmxv0yRuRbI7/SyDrBp/PnJxQ8tmULp6RFEYeq2gGY/om+PmwnNx/yu6g+0xrncRO7Aw==" length="8239382" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.14.0/Nova-v1.14.0.dmg" sparkle:edSignature="eNGVAPA7uowB1yg+ZKbQNK7WpTEyLCLlPhoiCLDcYr6cWgy+KZ6ycecslh8ZC04YsNI7o7/76RvegVDOTteAAg==" length="8246130" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
