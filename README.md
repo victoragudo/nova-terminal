@@ -16,10 +16,6 @@ There is no Electron and no webview. The GPU draws everything through Metal.
 
 You need an Apple Silicon Mac with macOS 13 or newer. Every build is signed and notarized by Apple, and Nova updates itself with Sparkle.
 
-<p align="center">
-  <img src=".github/assets/installer.png" width="720" alt="Nova Terminal installer">
-</p>
-
 ## What it does
 
 **Terminal**
