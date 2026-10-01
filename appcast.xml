@@ -6,22 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.14.0</title>
-      <sparkle:version>1.14.0</sparkle:version>
-      <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
+      <title>Version 1.14.1</title>
+      <sparkle:version>1.14.1</sparkle:version>
+      <sparkle:shortVersionString>1.14.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 30 Sep 2026 11:43:38 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `e17d1e9`.
-
-### Added
-- Add remote, agents and themes visuals to the README (`ef48469`)
+      <pubDate>Thu, 01 Oct 2026 06:56:21 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `46ddca6`.
 
 ### Changed
-- Redesign the Agents view around subagent swimlanes (`e17d1e9`)
-- Describe remote access as device-agnostic in the README (`9b9624d`)
-- Rewrite the README with a banner and a full feature overview (`4c804b4`)
+- Show Claude Code artifacts inside Nova (`46ddca6`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.14.0/Nova-v1.14.0.dmg" sparkle:edSignature="eNGVAPA7uowB1yg+ZKbQNK7WpTEyLCLlPhoiCLDcYr6cWgy+KZ6ycecslh8ZC04YsNI7o7/76RvegVDOTteAAg==" length="8246130" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.14.1/Nova-v1.14.1.dmg" sparkle:edSignature="Cgl6WFIh+5iTewEL6GxMSqT7A0JwcMFppWv0q2LXO/z45uuysj65v2OpgWxhTLmWIhb7BgkntXOp1qZ+wpEwCQ==" length="8306039" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
