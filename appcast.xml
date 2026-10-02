@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.17.4</title>
-      <sparkle:version>1.17.4</sparkle:version>
-      <sparkle:shortVersionString>1.17.4</sparkle:shortVersionString>
+      <title>Version 1.17.5</title>
+      <sparkle:version>1.17.5</sparkle:version>
+      <sparkle:shortVersionString>1.17.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Fri, 02 Oct 2026 11:51:54 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `d2498b8`.
+      <pubDate>Fri, 02 Oct 2026 12:46:59 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `8e8d94e`.
 
 ### Changed
-- Read whole Claude conversations in the sessions finder (`d2498b8`)
+- Browse and resume Claude sessions from the iPhone remote (`8e8d94e`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.17.4/Nova-v1.17.4.dmg" sparkle:edSignature="zffC69QhqH4l1/W3PpjTNPXM6MWy+GCtkeuA/GQFm3LGmF3x9e70EnKt1fRKJS8SlM6R87paTH95x1fx7aP1Cg==" length="8489310" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.17.5/Nova-v1.17.5.dmg" sparkle:edSignature="c6vuz8jUqnqN1DRsvbLGHxAZgUXFgouG0FAWZyVhhJlWL95CKbobkzepaq9umJhpdrcqRpbzJBRQ/J4+4kYiDw==" length="8500162" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
