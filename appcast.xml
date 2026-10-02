@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.17.1</title>
-      <sparkle:version>1.17.1</sparkle:version>
-      <sparkle:shortVersionString>1.17.1</sparkle:shortVersionString>
+      <title>Version 1.17.2</title>
+      <sparkle:version>1.17.2</sparkle:version>
+      <sparkle:shortVersionString>1.17.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Fri, 02 Oct 2026 09:53:51 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `93bfa92`.
+      <pubDate>Fri, 02 Oct 2026 10:27:02 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `4b41e6a`.
 
 ### Changed
-- Narrow the Cmd+K launcher to one group with a group: prefix (`93bfa92`)
+- Close tabs with a middle click (`4b41e6a`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.17.1/Nova-v1.17.1.dmg" sparkle:edSignature="XfIT+kqJUkQebb3sjWY4rAb5qD0zfFa6Fk4SUNpQFEJzrs69AThk9En2sPMOt3jgSUrjBdtSWwJDOTQT/qMzBw==" length="8446530" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.17.2/Nova-v1.17.2.dmg" sparkle:edSignature="p1MQpYsftpGhFkBK1e7W9M5avQKmopAJDWXY4Aqm8SPHXYx3ET4QpaAWmYVEOyp9FrVRZVx/Ug+OSf23onxyDg==" length="8446485" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
