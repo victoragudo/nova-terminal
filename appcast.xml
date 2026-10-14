@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.17.7</title>
-      <sparkle:version>1.17.7</sparkle:version>
-      <sparkle:shortVersionString>1.17.7</sparkle:shortVersionString>
+      <title>Version 1.17.8</title>
+      <sparkle:version>1.17.8</sparkle:version>
+      <sparkle:shortVersionString>1.17.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 14 Oct 2026 08:39:06 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `5bafa46`.
+      <pubDate>Wed, 14 Oct 2026 11:55:55 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `c44697d`.
 
 ### Changed
-- Rename the agent session when its tab is renamed (`5bafa46`)
+- Rename the tab when its Claude session is renamed (`c44697d`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.17.7/Nova-v1.17.7.dmg" sparkle:edSignature="ibLAiOTufbnya43ugcI/oLhWGlPHyQhqlm14wDSvz9j/fEsirrJYM0OpmKiInhsK776UQYkra1woEUFeSEDyDg==" length="8774534" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.17.8/Nova-v1.17.8.dmg" sparkle:edSignature="40KeeaKk3kypCwWId4E1uqFTiKmIRe9lYqCEErfnJV+XlrdYUVsSN7BJKLj/wrGLcpC+/dxrAW8sNx+TzTzcCQ==" length="8778409" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
