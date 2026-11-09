@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.18.3</title>
-      <sparkle:version>1.18.3</sparkle:version>
-      <sparkle:shortVersionString>1.18.3</sparkle:shortVersionString>
+      <title>Version 1.18.4</title>
+      <sparkle:version>1.18.4</sparkle:version>
+      <sparkle:shortVersionString>1.18.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Mon, 09 Nov 2026 12:45:49 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `423fa5d`.
+      <pubDate>Mon, 09 Nov 2026 15:28:15 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `aff2cf4`.
 
 ### Changed
-- Summarize the last prompt in its own language (`423fa5d`)
+- Select the neighboring tab when closing the active one (`aff2cf4`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.18.3/Nova-v1.18.3.dmg" sparkle:edSignature="GZ9lSNNfdtgsW4IwLtzadezPSh2PXPrpasWqB+bON1y9i5M3oy5DoFap+6ld17YEqORkES0XBE0LYLkPwpIgBg==" length="8821672" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.18.4/Nova-v1.18.4.dmg" sparkle:edSignature="GWcTmkUU1W8Z2EMgc/kegcVnBkwb+Yjp7S0k/b5vMbIx8pS9jsFrmHUs+uLR9SEXCF1SuoO7jBEo3ZeCh8G8Dw==" length="8822925" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
