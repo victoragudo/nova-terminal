@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.18.0</title>
-      <sparkle:version>1.18.0</sparkle:version>
-      <sparkle:shortVersionString>1.18.0</sparkle:shortVersionString>
+      <title>Version 1.18.1</title>
+      <sparkle:version>1.18.1</sparkle:version>
+      <sparkle:shortVersionString>1.18.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sat, 17 Oct 2026 09:08:19 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `39fe8a3`.
+      <pubDate>Mon, 09 Nov 2026 12:27:43 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `b4bf73f`.
 
-### Added
-- Add hover previews for agent attachments (`39fe8a3`)
+### Changed
+- Show the last prompt sent to the tab's Claude session (`b4bf73f`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.18.0/Nova-v1.18.0.dmg" sparkle:edSignature="K+qwhZkpMSpeuxjFMAJzZI3xgo0raJPEzQDuPS4mwblkdFi782U1bUkAO5ZYHclGiM8WbJh2oW8PjLK0/25YBg==" length="8795981" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.18.1/Nova-v1.18.1.dmg" sparkle:edSignature="Ba/ppjloaOusQX8ULuw0xBdp65Br0XfzXu9T/ZBFpN6j8ZJOMJxwIA1mNkTl2QX/Zq3rLc230vdOez4ldcWbDg==" length="8796944" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
