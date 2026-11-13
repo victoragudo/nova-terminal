@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.18.6</title>
-      <sparkle:version>1.18.6</sparkle:version>
-      <sparkle:shortVersionString>1.18.6</sparkle:shortVersionString>
+      <title>Version 1.18.7</title>
+      <sparkle:version>1.18.7</sparkle:version>
+      <sparkle:shortVersionString>1.18.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Fri, 13 Nov 2026 21:09:18 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `c9e04df`.
+      <pubDate>Fri, 13 Nov 2026 21:33:36 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `b1fb1db`.
 
 ### Changed
-- Let Claude's Playwright open a chosen Chrome profile (`c9e04df`)
+- Redraw only what terminal output changes (`b1fb1db`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.18.6/Nova-v1.18.6.dmg" sparkle:edSignature="I9UNlQ836GtM2o11vj5hVw0XITIQ4exshqX0i1vs3gypqkawT4SMsM4GIYd0zMvsIGqyXrjomHpUdwneT7P0Dg==" length="8827079" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.18.7/Nova-v1.18.7.dmg" sparkle:edSignature="qVacrs45evv9FCvevQxfLqn6rfJz4f+WQaa+MMXq+6XSKyZOpZu3szwHsd/akwFjvlI2i+uxstHn8EYeeWfpCw==" length="8816981" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
