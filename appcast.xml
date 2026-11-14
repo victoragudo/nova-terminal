@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.19.1</title>
-      <sparkle:version>1.19.1</sparkle:version>
-      <sparkle:shortVersionString>1.19.1</sparkle:shortVersionString>
+      <title>Version 1.19.2</title>
+      <sparkle:version>1.19.2</sparkle:version>
+      <sparkle:shortVersionString>1.19.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sat, 14 Nov 2026 15:01:35 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `bd215f4`.
+      <pubDate>Sat, 14 Nov 2026 15:14:50 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `302b90c`.
 
 ### Changed
-- Drag tabs into split panes and lock tabs instead of favorites (`bd215f4`)
+- Restore split pane layouts on relaunch (`302b90c`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.19.1/Nova-v1.19.1.dmg" sparkle:edSignature="3h+yIbd8SX+8+vcdafOXUH5cEixlZQZtPpQWAfIKmOPBBNUqCZJORADFVfVMpko2k5hx6jhzrtaMFNQPQC5HAg==" length="8848336" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.19.2/Nova-v1.19.2.dmg" sparkle:edSignature="vQy+G8A9/JkOfzhA95woL0E/SkXcDJbSWv5HMgUeuXH9u53rwyzPZXm7MMEtWQO3pVGEJ6AUPJyrfhaKNaFbAA==" length="8854558" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
