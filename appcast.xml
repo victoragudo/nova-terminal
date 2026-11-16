@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.19.3</title>
-      <sparkle:version>1.19.3</sparkle:version>
-      <sparkle:shortVersionString>1.19.3</sparkle:shortVersionString>
+      <title>Version 1.19.4</title>
+      <sparkle:version>1.19.4</sparkle:version>
+      <sparkle:shortVersionString>1.19.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sun, 15 Nov 2026 14:53:06 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `e1d2e2b`.
+      <pubDate>Mon, 16 Nov 2026 09:46:42 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `5c41583`.
 
 ### Changed
-- List every split pane as its own tab on the phone remote (`e1d2e2b`)
+- Move split panes by dragging their label (`5c41583`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.19.3/Nova-v1.19.3.dmg" sparkle:edSignature="MeXbt6ONZ+eifL8R7PSzP9epCs6XCv8orr4923DNzAe1Ty5HNIeDzSMHfMOGAzKZEpwttnMfTA/W2hp+aAFWDA==" length="8856678" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.19.4/Nova-v1.19.4.dmg" sparkle:edSignature="dujIkeGxmYoWSpcrToIIuRIA/I0RA8B70MtJG89m+iaMnO7CM48Adxq1Mpx27S1djPiDN1Re/4Zh3qkwLOnLAQ==" length="8861636" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
