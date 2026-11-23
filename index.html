@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Nova Terminal: a fast, native macOS terminal written in Rust</title>
-<meta name="description" content="Nova is a GPU-rendered macOS terminal written in Rust. Split panes, a file tree that follows cd, previews, Git, an Agents view for Claude Code and OpenCode, and remote access from your phone.">
+<title>Nova Terminal: Native Mac Terminal for Claude Code and AI Agents</title>
+<meta name="description" content="Nova is a free, GPU-rendered macOS terminal in Rust and a Warp alternative built for Claude Code and OpenCode, with split panes, file tree, previews and Git.">
 <link rel="canonical" href="https://victoragudo.github.io/nova-terminal/">
 <meta name="theme-color" content="#07070d" media="(prefers-color-scheme: dark)">
 <meta name="theme-color" content="#fafafc" media="(prefers-color-scheme: light)">
@@ -14,7 +14,7 @@
 
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Nova Terminal">
-<meta property="og:title" content="Nova Terminal: a fast, native macOS terminal written in Rust">
+<meta property="og:title" content="Nova Terminal: Native Mac Terminal for Claude Code and AI Agents">
 <meta property="og:description" content="GPU-rendered with Metal. Split panes, files, previews, Git, your AI agents and remote access in one native window.">
 <meta property="og:url" content="https://victoragudo.github.io/nova-terminal/">
 <meta property="og:image" content="https://victoragudo.github.io/nova-terminal/assets/og.jpg">
@@ -23,8 +23,8 @@
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:alt" content="Nova Terminal on a Mac with a remote session open on a phone">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Nova Terminal">
-<meta name="twitter:description" content="A fast, native macOS terminal written in Rust and drawn on the GPU.">
+<meta name="twitter:title" content="Nova Terminal: Native Mac Terminal for AI Agents">
+<meta name="twitter:description" content="A free, native macOS terminal written in Rust, with an Agents view for Claude Code and OpenCode.">
 <meta name="twitter:image" content="https://victoragudo.github.io/nova-terminal/assets/og.jpg">
 
 <script>
@@ -33,9 +33,8 @@ try {
   if (saved === "light" || saved === "dark") document.documentElement.dataset.theme = saved;
 } catch {}
 </script>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;600;700&display=swap">
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/inter.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/space-grotesk.woff2" crossorigin>
 <link rel="stylesheet" href="styles.css">
 <link rel="preload" as="image" href="assets/nova-banner.webp" fetchpriority="high">
 <script src="app.js" defer></script>
@@ -43,18 +42,62 @@ try {
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "Nova Terminal",
-  "applicationCategory": "DeveloperApplication",
-  "operatingSystem": "macOS 13 or newer (Apple Silicon)",
-  "description": "A GPU-rendered macOS terminal written in Rust, with split panes, a file tree, previews, Git, an Agents view for AI coding agents and remote access.",
-  "url": "https://victoragudo.github.io/nova-terminal/",
-  "downloadUrl": "https://github.com/victoragudo/nova-terminal/releases/latest",
-  "image": "https://victoragudo.github.io/nova-terminal/assets/og.jpg",
-  "screenshot": "https://victoragudo.github.io/nova-terminal/assets/nova-banner.webp",
-  "license": "https://opensource.org/licenses/MIT",
-  "author": { "@type": "Person", "name": "Víctor Agudo" },
-  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://victoragudo.github.io/nova-terminal/#website",
+      "name": "Nova Terminal",
+      "url": "https://victoragudo.github.io/nova-terminal/",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://victoragudo.github.io/nova-terminal/#author",
+      "name": "Víctor Agudo",
+      "url": "https://github.com/victoragudo",
+      "sameAs": ["https://github.com/victoragudo"]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://victoragudo.github.io/nova-terminal/#app",
+      "name": "Nova Terminal",
+      "alternateName": "Nova",
+      "applicationCategory": "DeveloperApplication",
+      "applicationSubCategory": "Terminal emulator",
+      "operatingSystem": "macOS 13 or newer (Apple Silicon)",
+      "description": "A free, GPU-rendered macOS terminal written in Rust, with split panes, a file tree, previews, Git, an Agents view for Claude Code and OpenCode, and remote access from a phone.",
+      "url": "https://victoragudo.github.io/nova-terminal/",
+      "downloadUrl": "https://github.com/victoragudo/nova-terminal/releases/latest",
+      "installUrl": "https://github.com/victoragudo/nova-terminal/releases/latest",
+      "releaseNotes": "https://github.com/victoragudo/nova-terminal/releases",
+      "fileSize": "12MB",
+      "image": "https://victoragudo.github.io/nova-terminal/assets/og.jpg",
+      "screenshot": [
+        "https://victoragudo.github.io/nova-terminal/assets/nova-banner.webp",
+        "https://victoragudo.github.io/nova-terminal/assets/nova-agents.webp",
+        "https://victoragudo.github.io/nova-terminal/assets/nova-remote.webp"
+      ],
+      "featureList": [
+        "GPU rendering through Metal",
+        "Split panes",
+        "File tree that follows cd",
+        "Previews for code, images, SVG, PDF and archives",
+        "Built-in Git panel",
+        "Agents view for Claude Code and OpenCode",
+        "Claude Code session finder and resume",
+        "Remote access from a phone browser",
+        "Ten themes"
+      ],
+      "author": { "@id": "https://victoragudo.github.io/nova-terminal/#author" },
+      "sameAs": ["https://github.com/victoragudo/nova-terminal"],
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://victoragudo.github.io/nova-terminal/#faq",
+      "mainEntity": [{"@type": "Question", "name": "Is Nova Terminal free?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Nova is a free download for Apple Silicon Macs running macOS 13 or newer. There are no paid plans, no AI credits and no account to create. Download the DMG from GitHub, drag Nova to Applications and it keeps itself up to date with Sparkle."}}, {"@type": "Question", "name": "Is Nova a good alternative to Warp?", "acceptedAnswer": {"@type": "Answer", "text": "Nova suits developers who want a modern, GPU-rendered Mac terminal without an account or a built-in AI plan. Instead of its own agent, Nova works with the agents you already run, like Claude Code and OpenCode, and adds a file tree, previews, Git and remote access."}}, {"@type": "Question", "name": "What is the best terminal for Claude Code on Mac?", "acceptedAnswer": {"@type": "Answer", "text": "A good terminal for Claude Code renders fast output smoothly, supports Shift+Enter for new lines and makes it easy to juggle several sessions. Nova does all three and adds an Agents view that lists every Claude Code session, shows which one needs you and lets you approve prompts in place."}}, {"@type": "Question", "name": "Does Nova work with my existing zsh or bash setup?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Every tab starts your shell as a login shell, so it loads the same profile as Terminal.app: your aliases, prompt, PATH and plugins carry over with nothing to migrate. You can pick a different shell in Settings."}}, {"@type": "Question", "name": "Does Nova run on Linux, Windows or Intel Macs?", "acceptedAnswer": {"@type": "Answer", "text": "No. Nova is a native macOS app built on Metal and currently ships for Apple Silicon Macs running macOS 13 or newer."}}]
+    }
+  ]
 }
 </script>
 </head>
@@ -72,7 +115,8 @@ try {
       <li><a href="#agents">Agents</a></li>
       <li><a href="#remote">Remote</a></li>
       <li><a href="#performance">Performance</a></li>
-      <li><a href="#stack">Stack</a></li>
+      <li><a href="#faq">FAQ</a></li>
+      <li><a href="warp-alternative/">vs Warp</a></li>
       <li class="menu-download"><a data-download href="https://github.com/victoragudo/nova-terminal/releases/latest">Download for macOS</a></li>
     </ul>
     <div class="nav-actions">
@@ -92,8 +136,8 @@ try {
 
   <section class="hero container">
     <a class="pill" href="https://github.com/victoragudo/nova-terminal/releases/latest"><span class="pill-dot" aria-hidden="true"></span><span data-version>Latest release on GitHub</span></a>
-    <h1>Your terminal, files and AI agents in one native window.</h1>
-    <p class="lead">Nova is a macOS terminal written in pure Rust and drawn on the GPU through Metal. No Electron, no webview. Just fast, with the things you use every day close at hand.</p>
+    <h1>The native Mac terminal for your shell, files and AI agents.</h1>
+    <p class="lead">Nova is a free macOS terminal written in pure Rust and drawn on the GPU through Metal. It keeps every Claude Code and OpenCode session in view, with split panes, files, previews and Git one keystroke away. No account, no AI credits, no Electron.</p>
     <div class="actions">
       <a class="button button-primary button-lg" data-download href="https://github.com/victoragudo/nova-terminal/releases/latest">
         <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg>
@@ -107,10 +151,10 @@ try {
 
   <section class="band" aria-label="At a glance">
     <div class="glance container">
-      <div><h2>GPU rendered</h2><p>GPUI on Metal, the UI framework behind Zed.</p></div>
-      <div><h2>Pure Rust</h2><p>alacritty_terminal at the core, no web stack.</p></div>
-      <div><h2>10 themes</h2><p>From Nova Dark to NovaOne Light.</p></div>
-      <div><h2>Signed and notarized</h2><p>Sparkle keeps it up to date.</p></div>
+      <div><h3>GPU rendered</h3><p>GPUI on Metal, the UI framework behind Zed.</p></div>
+      <div><h3>Pure Rust</h3><p>alacritty_terminal at the core, no web stack.</p></div>
+      <div><h3>10 themes</h3><p>From Nova Dark to NovaOne Light.</p></div>
+      <div><h3>Signed and notarized</h3><p>Sparkle keeps it up to date.</p></div>
     </div>
   </section>
 
@@ -209,7 +253,7 @@ try {
         </div>
         <p>Nova Dark, Nova Light, Enana Blanca, Kilonova, Andromeda, Solar, Aurora, Púlsar, NovaOne and NovaOne Light. JetBrains Mono and Space Grotesk ship inside the app.</p>
       </div>
-      <img class="shot" src="assets/nova-themes.gif" loading="lazy" decoding="async" alt="Nova Terminal cycling through its themes, starting with NovaOne">
+      <img class="shot" src="assets/nova-themes.webp" width="1080" height="675" loading="lazy" decoding="async" alt="Nova Terminal cycling through its themes, starting with NovaOne">
     </div>
   </section>
 
@@ -243,6 +287,43 @@ try {
     </ul>
   </section>
 
+  <section id="compare" class="container" aria-labelledby="compare-title" style="padding-top: 112px">
+    <p class="eyebrow">Compare</p>
+    <h2 id="compare-title" class="section-title">Coming from another terminal?</h2>
+    <p class="section-lead">See how Nova lines up against the terminal you use today, and what changes when you switch.</p>
+    <ul class="links-grid">
+      <li><a href="warp-alternative/"><strong>Nova vs Warp</strong><span>A free Warp alternative for Mac with no account and no AI credits.</span></a></li>
+      <li><a href="claude-code-terminal/"><strong>Terminal for Claude Code</strong><span>Watch, approve and resume every Claude Code session from one window.</span></a></li>
+    </ul>
+  </section>
+
+  <section id="faq" class="container" aria-labelledby="faq-title" style="padding-top: 112px">
+    <p class="eyebrow">FAQ</p>
+    <h2 id="faq-title" class="section-title">Questions people ask before switching.</h2>
+    <div class="faq">
+      <details>
+        <summary>Is Nova Terminal free?</summary>
+        <p>Yes. Nova is a free download for Apple Silicon Macs running macOS 13 or newer. There are no paid plans, no AI credits and no account to create. Download the DMG from GitHub, drag Nova to Applications and it keeps itself up to date with Sparkle.</p>
+      </details>
+      <details>
+        <summary>Is Nova a good alternative to Warp?</summary>
+        <p>Nova suits developers who want a modern, GPU-rendered Mac terminal without an account or a built-in AI plan. Instead of its own agent, Nova works with the agents you already run, like Claude Code and OpenCode, and adds a file tree, previews, Git and remote access.</p>
+      </details>
+      <details>
+        <summary>What is the best terminal for Claude Code on Mac?</summary>
+        <p>A good terminal for Claude Code renders fast output smoothly, supports Shift+Enter for new lines and makes it easy to juggle several sessions. Nova does all three and adds an Agents view that lists every Claude Code session, shows which one needs you and lets you approve prompts in place.</p>
+      </details>
+      <details>
+        <summary>Does Nova work with my existing zsh or bash setup?</summary>
+        <p>Yes. Every tab starts your shell as a login shell, so it loads the same profile as Terminal.app: your aliases, prompt, PATH and plugins carry over with nothing to migrate. You can pick a different shell in Settings.</p>
+      </details>
+      <details>
+        <summary>Does Nova run on Linux, Windows or Intel Macs?</summary>
+        <p>No. Nova is a native macOS app built on Metal and currently ships for Apple Silicon Macs running macOS 13 or newer.</p>
+      </details>
+    </div>
+  </section>
+
   <section id="download" class="container" style="padding-block: 72px 112px">
     <div class="cta">
       <img src="assets/icon.png" width="96" height="96" loading="lazy" alt="Nova Terminal app icon">
@@ -265,11 +346,13 @@ try {
   <div class="footer-inner container">
     <div class="footer-brand">
       <img src="assets/icon.png" width="24" height="24" alt="">
-      <span>Nova Terminal · Made in Rust by Víctor Agudo · MIT license</span>
+      <span>Nova Terminal · Made in Rust by Víctor Agudo</span>
     </div>
     <ul class="footer-links">
       <li><a data-download href="https://github.com/victoragudo/nova-terminal/releases/latest">Download</a></li>
       <li><a href="https://github.com/victoragudo/nova-terminal/releases">Releases</a></li>
+      <li><a href="warp-alternative/">Warp alternative</a></li>
+      <li><a href="claude-code-terminal/">Terminal for Claude Code</a></li>
       <li><a href="https://github.com/victoragudo/nova-terminal">GitHub</a></li>
     </ul>
   </div>
