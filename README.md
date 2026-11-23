@@ -96,9 +96,11 @@ The source code lives in a private repo. This one has the releases, the update f
 - **`crates/nova-engine`**: the terminal core. One PTY, one terminal model and one I/O thread per tab. It has no UI code and only gives the UI owned data (`RenderSnapshot`, `EngineEvent`).
 - **`crates/nova`**: the app itself. Window, tabs, file tree, previews, Git, themes, settings, Agents view and the remote.
 
-## Feedback
+## Feedback and contributing
 
-Found a bug or have an idea? Open an [issue](https://github.com/victoragudo/nova-terminal/issues). I read all of them.
+Found a bug or have an idea? Open an [issue](https://github.com/victoragudo/nova-terminal/issues/new/choose). I read all of them.
+
+Pull requests to the README and docs are welcome too. See [CONTRIBUTING.md](CONTRIBUTING.md) for how it works.
 
 ## Known limits
 
