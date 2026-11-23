@@ -156,7 +156,3 @@ Pull requests to the README and docs are welcome too. See [CONTRIBUTING.md](CONT
 - GPUI has no styled scrollbars, so Nova draws its own.
 - The default remote needs Docker running.
 - Apple Silicon only. There is no Intel build.
-
-## License
-
-MIT
