@@ -6,17 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.19.4</title>
-      <sparkle:version>1.19.4</sparkle:version>
-      <sparkle:shortVersionString>1.19.4</sparkle:shortVersionString>
+      <title>Version 1.19.5</title>
+      <sparkle:version>1.19.5</sparkle:version>
+      <sparkle:shortVersionString>1.19.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Mon, 16 Nov 2026 09:46:42 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `5c41583`.
+      <pubDate>Mon, 23 Nov 2026 07:37:37 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `3d00bdf`.
 
 ### Changed
-- Move split panes by dragging their label (`5c41583`)
+- Rename split panes by double-clicking their label (`3d00bdf`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.19.4/Nova-v1.19.4.dmg" sparkle:edSignature="dujIkeGxmYoWSpcrToIIuRIA/I0RA8B70MtJG89m+iaMnO7CM48Adxq1Mpx27S1djPiDN1Re/4Zh3qkwLOnLAQ==" length="8861636" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.19.5/Nova-v1.19.5.dmg" sparkle:edSignature="u5LujKouguXFMWSaJSvmSMgF79nqO78vfke8av1Vm+Q26CXrTky/wJHQtjiuGBsyJUv44r/8O/lLpaDIoT87Aw==" length="8860170" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
