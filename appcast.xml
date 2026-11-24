@@ -6,20 +6,31 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.20.0</title>
-      <sparkle:version>1.20.0</sparkle:version>
-      <sparkle:shortVersionString>1.20.0</sparkle:shortVersionString>
+      <title>Version 1.21.0</title>
+      <sparkle:version>1.21.0</sparkle:version>
+      <sparkle:shortVersionString>1.21.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Mon, 23 Nov 2026 10:43:21 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `a4f52e7`.
+      <pubDate>Tue, 24 Nov 2026 08:57:46 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `5be0301`.
 
 ### Added
-- Add the Nova Terminal landing page [skip ci] (`6970b24`)
+- Add pane toolbar to the terminal header with add column and row (`5be0301`)
+- Add the Google Search Console verification file [skip ci] (`90a65ac`)
+
+### Fixed
+- Correct CLAUDE.md on grid reflow and where tests live [skip ci] (`36482fa`)
+- Fix link previews for the landing page [skip ci] (`732522f`)
 
 ### Changed
-- Equalize split pane sizes and translate the remote UI to English (`a4f52e7`)
+- Remove the license section from the README [skip ci] (`54a9d7c`)
+- Target Warp and Claude Code searches on the landing page [skip ci] (`7abcadd`)
+- Update the README for split panes, sessions and the website [skip ci] (`1c9525a`)
+- Serve the landing page from GitHub Pages [skip ci] (`734b8c9`)
+- Publish the appcast through the admin bypass [skip ci] (`7be80f3`)
+- Open the landing page mobile menu full screen [skip ci] (`317299d`)
+- Stretch the landing page header across the full window [skip ci] (`9f57cf3`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.20.0/Nova-v1.20.0.dmg" sparkle:edSignature="Z/3tImf9Ix+HVTEajsgVjIGPUX17YKjdxo8h+jpPCHjZGgT+NyAANG6nClKYO5JRxpk7oHZ0Fh7WB7kfiD3UCA==" length="8858928" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.21.0/Nova-v1.21.0.dmg" sparkle:edSignature="Gul2Wj6nfeyN1xRj5WwWcKik8ctYmJo+0HleIRt1BvV9c+h2CqnVBB96DS4A7s7qYb1E8ROgtjlKWvcGP2G4CQ==" length="8879709" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
