@@ -6,27 +6,17 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.22.0</title>
-      <sparkle:version>1.22.0</sparkle:version>
-      <sparkle:shortVersionString>1.22.0</sparkle:shortVersionString>
+      <title>Version 1.23.0</title>
+      <sparkle:version>1.23.0</sparkle:version>
+      <sparkle:shortVersionString>1.23.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 25 Nov 2026 06:40:57 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `77f1500`.
+      <pubDate>Wed, 25 Nov 2026 11:56:09 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `d9b4a88`.
 
 ### Added
-- Add side by side and stacked pane arrangements (`77f1500`)
-- Add the split panes screenshot to the README [skip ci] (`e972788`)
-- Add a split panes screenshot to the website [skip ci] (`22637d7`)
-
-### Fixed
-- Fix remote history scrolling and keep a much deeper scrollback (`6d37ca3`)
-
-### Changed
-- Show the pane toolbar and add column/row on the website [skip ci] (`4e7810c`)
-- Describe the pane toolbar and UI icons in CLAUDE.md [skip ci] (`ed439ef`)
-- Document the pane toolbar and add column/row in the README [skip ci] (`62e4618`)
+- Add the Nova Flat and Nova Flat Light themes (`d9b4a88`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.22.0/Nova-v1.22.0.dmg" sparkle:edSignature="SjLe4sSNVYU2BG2EG1ryNPl6l1XOKQyKf3FIoDOTvoITbCvoxLRVIWQG+Ldvyjy0RkS+Lzd52Ur1PXFZ7hUgAA==" length="8882671" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.23.0/Nova-v1.23.0.dmg" sparkle:edSignature="TH0G7Lpc7307+WxZhuqy8a2C61MTEy/Yld7YSeBzx2JoLeryr7kYVVNFtcclw/JDTaBL1RsxnObpfM5AkgLIAA==" length="8881937" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
