@@ -6,31 +6,27 @@
     <description>Official Nova Terminal updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.21.0</title>
-      <sparkle:version>1.21.0</sparkle:version>
-      <sparkle:shortVersionString>1.21.0</sparkle:shortVersionString>
+      <title>Version 1.22.0</title>
+      <sparkle:version>1.22.0</sparkle:version>
+      <sparkle:shortVersionString>1.22.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Tue, 24 Nov 2026 08:57:46 GMT</pubDate>
-      <description><![CDATA[<pre>Automated build from source commit `5be0301`.
+      <pubDate>Wed, 25 Nov 2026 06:40:57 GMT</pubDate>
+      <description><![CDATA[<pre>Automated build from source commit `77f1500`.
 
 ### Added
-- Add pane toolbar to the terminal header with add column and row (`5be0301`)
-- Add the Google Search Console verification file [skip ci] (`90a65ac`)
+- Add side by side and stacked pane arrangements (`77f1500`)
+- Add the split panes screenshot to the README [skip ci] (`e972788`)
+- Add a split panes screenshot to the website [skip ci] (`22637d7`)
 
 ### Fixed
-- Correct CLAUDE.md on grid reflow and where tests live [skip ci] (`36482fa`)
-- Fix link previews for the landing page [skip ci] (`732522f`)
+- Fix remote history scrolling and keep a much deeper scrollback (`6d37ca3`)
 
 ### Changed
-- Remove the license section from the README [skip ci] (`54a9d7c`)
-- Target Warp and Claude Code searches on the landing page [skip ci] (`7abcadd`)
-- Update the README for split panes, sessions and the website [skip ci] (`1c9525a`)
-- Serve the landing page from GitHub Pages [skip ci] (`734b8c9`)
-- Publish the appcast through the admin bypass [skip ci] (`7be80f3`)
-- Open the landing page mobile menu full screen [skip ci] (`317299d`)
-- Stretch the landing page header across the full window [skip ci] (`9f57cf3`)
+- Show the pane toolbar and add column/row on the website [skip ci] (`4e7810c`)
+- Describe the pane toolbar and UI icons in CLAUDE.md [skip ci] (`ed439ef`)
+- Document the pane toolbar and add column/row in the README [skip ci] (`62e4618`)
 </pre>]]></description>
-      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.21.0/Nova-v1.21.0.dmg" sparkle:edSignature="Gul2Wj6nfeyN1xRj5WwWcKik8ctYmJo+0HleIRt1BvV9c+h2CqnVBB96DS4A7s7qYb1E8ROgtjlKWvcGP2G4CQ==" length="8879709" type="application/octet-stream" />
+      <enclosure url="https://github.com/victoragudo/nova-terminal/releases/download/v1.22.0/Nova-v1.22.0.dmg" sparkle:edSignature="SjLe4sSNVYU2BG2EG1ryNPl6l1XOKQyKf3FIoDOTvoITbCvoxLRVIWQG+Ldvyjy0RkS+Lzd52Ur1PXFZ7hUgAA==" length="8882671" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
